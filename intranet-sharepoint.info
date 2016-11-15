@@ -12,6 +12,7 @@
         <owner url="mailto:frank.bergmann@project-open.com">Frank Bergmann</owner>
         <summary>Sharepoint integration via iFrames</summary>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+        <release-date>2016-11-15</release-date>
         <description format="text/plain">Sharepoint integration via iFrames</description>
 
         <!-- No dependency information -->
