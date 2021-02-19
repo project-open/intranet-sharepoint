@@ -44,6 +44,6 @@ db_1row project_info "
 
 
 # The Sharepoint URL may contain TCL variables and expressions
-set url_tcl [parameter::get_from_package_key -package_key "intranet-sharepoint" -parameter SharepointUrl -default "http://www.microsoft.com.com/"]
+set url_tcl [parameter::get_from_package_key -package_key "intranet-sharepoint" -parameter SharepointUrl -default "https://www.microsoft.com.com/"]
 eval "set url $url_tcl"
 
